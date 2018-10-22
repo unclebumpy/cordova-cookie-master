@@ -1,0 +1,19 @@
+{
+  "name": "Cookie Monster",
+  "version": "1.0.0",
+  "description": "IMPORTANT: This plugin is no longer maintained. It is possible that some functionality may be deprecated in newer target SDKs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kristianhristov/cordova-cookie-master.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kristianhristov/cordova-cookie-master/issues"
+  },
+  "homepage": "https://github.com/kristianhristov/cordova-cookie-master#readme"
+}
